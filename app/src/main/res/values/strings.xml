@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">VideoCameraSample</string>
+    <string name="permission_request">Permission</string>
+    <string name="camera_error">Camera Error</string>
 </resources>
